@@ -96,8 +96,4 @@ def Quiet():
     utime.sleep(0.5)
     singleTap("both",0.5)
     
-led_onboard.on()
-    
-Quiet()
-
 
